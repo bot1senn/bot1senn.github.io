@@ -1,3 +1,14 @@
-# Puree Sriloetwut — Portfolio
+# Phuree Portfolio
 
-Personal portfolio website hosted with GitHub Pages.
+เว็บไซต์ Portfolio ของ **ภูรี ศรีเลิศวุฒิ** สำหรับนำเสนอประวัติ ทักษะ ประสบการณ์ และผลงานด้านเทคโนโลยีสารสนเทศ
+
+## เนื้อหา
+
+- เกี่ยวกับฉัน
+- ประสบการณ์ทำงาน
+- ทักษะและเครื่องมือ
+- ผลงานที่เลือก
+- ประวัติการศึกษา
+- ช่องทางติดต่อ
+
+เว็บไซต์อยู่ในโฟลเดอร์ `dist` และตั้งค่า GitHub Actions สำหรับเผยแพร่ผ่าน GitHub Pages แล้ว
